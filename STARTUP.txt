@@ -1,0 +1,2 @@
+This is just a test of startup.txt file 
+Share information with others
